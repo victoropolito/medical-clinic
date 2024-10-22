@@ -79,6 +79,10 @@
   text-decoration: none;
 }
 
+.link-telefone {
+  text-decoration: none;
+}
+
 @media (max-width: 1024px) {
   .box-visao-geral {
     height: 400px;
